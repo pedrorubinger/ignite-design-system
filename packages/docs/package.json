@@ -23,5 +23,12 @@
     "@vitejs/plugin-react": "^3.1.0",
     "babel-loader": "^8.2.5",
     "vite": "^4.2.1"
+  },
+  "dependencies": {
+    "@ignite-ui/react": "*",
+    "@ignite-ui/tokens": "*",
+    "@ignite-ui/eslint-config": "*",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
