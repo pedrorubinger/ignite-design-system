@@ -4,6 +4,6 @@
 - [x] Button
 - [x] TextInput
 - [x] TextArea
-- [ ] Checkbox
-- [ ] Avatar
+- [x] Checkbox
+- [x] Avatar
 - [ ] Multistep
