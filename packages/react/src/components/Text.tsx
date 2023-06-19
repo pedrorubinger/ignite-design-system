@@ -3,7 +3,7 @@ import { ElementType } from 'react'
 import { styled } from '../styles'
 import { ComponentProps } from '@stitches/react'
 
-export const Text = styled('div', {
+export const Text = styled('p', {
   fontFamily: '$default',
   lineHeight: '$base',
   margin: 0,
