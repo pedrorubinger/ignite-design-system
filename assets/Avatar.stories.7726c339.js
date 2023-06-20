@@ -1,0 +1,2 @@
+import{A as r}from"./index.b1701286.js";import"./index.fc7373aa.js";import"./iframe.6a32f557.js";import"./index.4b736a8d.js";import"./jsx-runtime.633e97ac.js";const e={title:"Data display/Avatar",component:r,args:{src:"https://github.com/pedrorubinger.png",alt:"Pedro Rubinger"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.7726c339.js.map
